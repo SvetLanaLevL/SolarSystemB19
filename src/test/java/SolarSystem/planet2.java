@@ -1,7 +1,7 @@
 package SolarSystem;
 
-public class planet1 {
+public class planet2 {
     String color;
-    String size;
     String radius;
+    String size;
 }
